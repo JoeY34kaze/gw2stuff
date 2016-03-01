@@ -2,8 +2,8 @@
 <body>
     drek je drek
     <?php
-echo "Hello Worlderolololojkljll!\n";
-echo "yolo";
+echo "Hello Worlderolololojkljll!\r\n";
+echo "yolo<br>";
 echo "yolo";
 $color = "red";
 echo "My car is " . $color . "<br>";
