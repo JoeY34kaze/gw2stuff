@@ -12,8 +12,8 @@ header {
 
 #banner {
     width:90%;
-    padding-left:5%;
-    padding-right:5%;
+    margin-left:5%;
+    margin-right:5%;
     height: 500px;
     position: fixed;
     top: 100px;
