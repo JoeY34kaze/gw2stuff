@@ -17,12 +17,61 @@
         </div>
         <div id="content">
             <p>Content goes here.</p>
-                Pod mano je vse spisano z phpjem:<br>
-    <?php
-    for($i=0;$i<500;$i++){
-        echo "Line $i: Tole je spisano z phpjem<br>";
-    }
-?>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            <p>Content goes here.</p>
+            
         </div>
     </div>
 
