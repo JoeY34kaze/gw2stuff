@@ -17,13 +17,14 @@
         </div>
         <div id="content">
             <p>Content goes here.</p>
-        </div>
-    </div>
-    Pod mano je vse spisano z phpjem:<br>
+                Pod mano je vse spisano z phpjem:<br>
     <?php
     for($i=0;$i<500;$i++){
         echo "Line $i: Tole je spisano z phpjem<br>";
     }
 ?>
+        </div>
+    </div>
+
 </body>
 </html>
