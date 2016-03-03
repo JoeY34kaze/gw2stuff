@@ -15,17 +15,15 @@
                 This is the banner.
             </h2>
         </div>
-        <div> id="content">
+        <div id="content">
             <p>Content goes here.</p>
         </div>
     </div>
-    
-    
-    drek je drek
+    Pod mano je vse spisano z phpjem:<br>
     <?php
-echo "Hello Worlderolololojkljll!";
-echo "yolo";
-echo "yolo";
+    for($i=0;$i<500;$i++){
+        echo "Line $i: Tole je spisano z phpjem<br>";
+    }
 ?>
 </body>
 </html>
