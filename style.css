@@ -26,8 +26,9 @@ header {
     width:90%;
     margin-left:5%;
     margin-right:5%;
-    height: 500px;
-    position: fixed;
-    top: 100px;
-    background-color:#707070;
+    left:0px;
+    height:100%;
+    position: relative;
+    top:400px;
+    background-color: #ebebeb;
 }
