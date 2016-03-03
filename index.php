@@ -13,27 +13,71 @@
         <div id="banner">
             <h2>
                 This is the banner.
+            </h2>
+            <h2>
                 This is the banner.
+            </h2>
+            <h2>
                 This is the banner.
+            </h2>
+            <h2>
                 This is the banner.
+            </h2>
+            <h2>
                 This is the banner.
+            </h2>
+            <h2>
                 This is the banner.
+            </h2>
+            <h2>
                 This is the banner.
+            </h2>
+            <h2>
                 This is the banner.
+            </h2>
+            <h2>
                 This is the banner.
+            </h2>
+            <h2>
                 This is the banner.
+            </h2>
+            <h2>
                 This is the banner.
+            </h2>
+            <h2>
                 This is the banner.
+            </h2>
+            <h2>
                 This is the banner.
+            </h2>
+            <h2>
                 This is the banner.
+            </h2>
+            <h2>
                 This is the banner.
+            </h2>
+            <h2>
                 This is the banner.
+            </h2>
+            <h2>
                 This is the banner.
+            </h2>
+            <h2>
                 This is the banner.
+            </h2>
+            <h2>
                 This is the banner.
+            </h2>
+            <h2>
                 This is the banner.
+            </h2>
+            <h2>
                 This is the banner.
+            </h2>
+            <h2>
                 This is the banner.
+            </h2>
+            <h2>
                 This is the banner.
             </h2>
         </div>
