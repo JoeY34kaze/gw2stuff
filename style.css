@@ -3,9 +3,11 @@ body {
 }
 
 header {
+    width:90%;
+    margin-left:5%;
+    margin-right:5%;
     height:100px;
     background: #dbdbdb;
-    width: 100%;
     z-index:10;
     position: fixed;
 }
@@ -21,7 +23,9 @@ header {
 }
 
 #content {
-    width:100%;
+    width:90%;
+    margin-left:5%;
+    margin-right:5%;
     height:100%;
     position: relative;
     top:400px;
