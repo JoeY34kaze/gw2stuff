@@ -23,10 +23,10 @@ header {
 }
 
 #content {
-    width:90%;
-    margin-left:5%;
-    margin-right:5%;
+    width:100%;
+    left:20px;
     height:100%;
+    position: relative;
     top:400px;
     background-color: #ebebeb;
 }
