@@ -23,7 +23,8 @@ header {
 }
 
 #content {
-    width:100%;
+    width:90%;
+    margin-left:5%;
     left:20px;
     height:100%;
     position: relative;
