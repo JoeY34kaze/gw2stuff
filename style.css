@@ -73,6 +73,13 @@ header {
     background-color:#707070;
 }
 
+.fill {
+    overflow: hidden;
+    background-size: cover;
+    background-position: center;
+    background-image: url("http://www.bimwebdesign.com/index_htm_files/1.pn");
+}
+
 #content {
     height:100%;
     width:100%;

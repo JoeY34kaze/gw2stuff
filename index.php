@@ -11,77 +11,8 @@
             </h1>
         </header>
         <div id="banner">
-            <h2>
-                This is the banner.
-            </h2>
-            <h2>
-                This is the banner.
-            </h2>
-            <h2>
-                This is the banner.
-            </h2>
-            <h2>
-                This is the banner.
-            </h2>
-            <h2>
-                This is the banner.
-            </h2>
-            <h2>
-                This is the banner.
-            </h2>
-            <h2>
-                This is the banner.
-            </h2>
-            <h2>
-                This is the banner.
-            </h2>
-            <h2>
-                This is the banner.
-            </h2>
-            <h2>
-                This is the banner.
-            </h2>
-            <h2>
-                This is the banner.
-            </h2>
-            <h2>
-                This is the banner.
-            </h2>
-            <h2>
-                This is the banner.
-            </h2>
-            <h2>
-                This is the banner.
-            </h2>
-            <h2>
-                This is the banner.
-            </h2>
-            <h2>
-                This is the banner.
-            </h2>
-            <h2>
-                This is the banner.
-            </h2>
-            <h2>
-                This is the banner.
-            </h2>
-            <h2>
-                This is the banner.
-            </h2>
-            <h2>
-                This is the banner.
-            </h2>
-            <h2>
-                This is the banner.
-            </h2>
-            <h2>
-                This is the banner.
-            </h2>
-            <h2>
-                This is the banner.
-            </h2>
         </div>
-        <div id="content">
+        <div id="content" class="fill">
             <p>Content goes here.</p>
             <p>Content goes here.</p>
             <p>Content goes here.</p>
